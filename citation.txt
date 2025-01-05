@@ -1,0 +1,7 @@
+@inproceedings{REPO005,
+    author = "Kim, Jongbin and Kim, Kihwang and Cho, Hyunsoo and Yu, Jaeseon and Kang, Sooyong and Jung, Hyungsoo",
+    booktitle = "Proceedings of the 2021 International Conference on Management of Data",
+    pages = "938--950",
+    title = "{Rethink the scan in mvcc databases}",
+    year = "2021"
+}
